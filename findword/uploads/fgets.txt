@@ -1,0 +1,3 @@
+NaN stands for Not a Number.
+
+NaN is used for impossible mathematical operations.

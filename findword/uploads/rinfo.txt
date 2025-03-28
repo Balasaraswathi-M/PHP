@@ -1,0 +1,1 @@
+PHP (Hypertext Preprocessor) is a free, open-source scripting language used to create dynamic web pages. It's primarily used on the server-side, but can also be used for command-line scripting and desktop applications. 
